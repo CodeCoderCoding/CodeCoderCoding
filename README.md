@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ### Computer Basic Demo
 - [Algorithms_DataStructures](https://github.com/CodeCoderCoding/Algorithms_DataStructures)
 
-### Database-Demo
+### Database Demo
 - [Redis-Demo](https://github.com/CodeCoderCoding/Redis-Demo)
 
 ### Programming Language Demo
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - [Python-Demo](https://github.com/CodeCoderCoding/Python-Demo)
 - [R-Demo](https://github.com/CodeCoderCoding/R-Demo)
 
-### Back-End Demo
+### Back End Demo
 - [Spring-Demo](https://github.com/CodeCoderCoding/Spring-Demo)
 - [Lombok-Demo](https://github.com/CodeCoderCoding/Lombok-Demo)
 - [Mybatis-Demo](https://github.com/CodeCoderCoding/Mybatis-Demo)
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 - [Knife4j-Demo](https://github.com/CodeCoderCoding/Knife4j-Demo)
 - [Django-Demo](https://github.com/CodeCoderCoding/Django-Demo)
 
-### Front-End Demo
+### Front End Demo
 - [SortableJS-Demo](https://github.com/CodeCoderCoding/SortableJS-Demo)
 - [Vue-Demo](https://github.com/CodeCoderCoding/Vue-Demo)
 - [VuePress-Demo](https://github.com/CodeCoderCoding/VuePress-Demo)
