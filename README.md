@@ -44,6 +44,10 @@ You can click the Preview link to take a look at your changes.
 - [Vue-Demo](https://github.com/CodeCoderCoding/Vue-Demo)
 - [VuePress-Demo](https://github.com/CodeCoderCoding/VuePress-Demo)
 
+### Data Related
+- [NodeJS-Demo](https://github.com/CodeCoderCoding/NumPy-Demo)
+- [SortableJS-Demo](https://github.com/CodeCoderCoding/Pandas-Demo)
+
 ### Tool Demo
 - [Gradle-Demo](https://github.com/CodeCoderCoding/Gradle-Demo)
 - [Maven-Demo](https://github.com/CodeCoderCoding/Maven-Demo)
