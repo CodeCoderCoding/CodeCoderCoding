@@ -17,12 +17,7 @@ You can click the Preview link to take a look at your changes.
 - [Redis-Demo](https://github.com/CodeCoderCoding/Redis-Demo)
 
 ### Programming Language Demo
-- [C-Demo](https://github.com/CodeCoderCoding/C-Demo)
-- [Java-Demo](https://github.com/CodeCoderCoding/Java-Demo)
-- [JavaScript-Demo](https://github.com/CodeCoderCoding/JavaScript-Demo)
-- [Python-Demo](https://github.com/CodeCoderCoding/Python-Demo)
-- [R-Demo](https://github.com/CodeCoderCoding/R-Demo)
-- [TypeScript-Demo](https://github.com/CodeCoderCoding/TypeScript-Demo)
+- [C-Demo](https://github.com/CodeCoderCoding/C-Demo)、[Java-Demo](https://github.com/CodeCoderCoding/Java-Demo)、 [JavaScript-Demo](https://github.com/CodeCoderCoding/JavaScript-Demo)、 [Python-Demo](https://github.com/CodeCoderCoding/Python-Demo)、 [R-Demo](https://github.com/CodeCoderCoding/R-Demo)、 [TypeScript-Demo](https://github.com/CodeCoderCoding/TypeScript-Demo)
 
 ### Back End Demo
 - [Activiti-Demo](https://github.com/CodeCoderCoding/Activiti-Demo)
