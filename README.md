@@ -1,7 +1,6 @@
 ## About Myself
 - 👋 Hi, I’m @CodeCoderCoding
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning frontend
 - 📫 How to reach me kneil5778@gmail.com
 
 <!---
